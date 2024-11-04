@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/bin/Debug/net8.0/lab-8-project-euler-StrawmanDave
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/bin/Debug/net8.0/lab-8-project-euler-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/bin/Debug/net8.0/lab-8-project-euler-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/bin/Debug/net8.0/lab-8-project-euler-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/bin/Debug/net8.0/lab-8-project-euler-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/refint/lab-8-project-euler-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/lab-8-project-euler-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-8-project-euler-StrawmanDave/obj/Debug/net8.0/ref/lab-8-project-euler-StrawmanDave.dll
