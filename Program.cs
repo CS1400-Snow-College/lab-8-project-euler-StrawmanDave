@@ -29,8 +29,63 @@ This program takes in 2 numbers and squares each number up to both numbers and a
 This program takes a number and spits out the number nth prime that you gave it. 
 ";
 
+FiveAndThreeMultiples();
+Console.WriteLine();
+
+void startMenu()
+{
 Console.Clear();
 Console.Write(challengeMenu);
 Console.WriteLine();
 Console.Write("Witch program would you like to use?");
 Console.WriteLine();
+}
+
+void FiveAndThreeMultiples()
+{
+    Console.Clear();
+    Console.Write("So what number are you going to use? ");
+    int maxNumber = ReadNumber();
+
+    int three = 0;
+    int five = 0;
+    for(int i = 0; i<maxNumber; i +=3)
+    {
+        //Console.Write($"{i} ");
+        three = i + three;
+    }
+
+    // Console.Write($"multiples of three added up are {three} ");
+    // Console.WriteLine();
+
+    for(int j = 0; j<maxNumber; j +=5)
+    {
+        //Console.Write($"{j} ");
+        five = j + five;
+    }
+    // Console.Write($"multiples of five added up are {five} ");
+    int output = five + three;
+    // Console.WriteLine();
+    Console.Write($"All the multiples of 5 and 3 added up are {output}.");
+}
+
+int ReadNumber()
+{
+    while(true)
+    {
+        int holder = 0;
+        //Console.Write("Please Enter a number ");
+        string num = Console.ReadLine();
+
+        bool isNum = int.TryParse(num, out holder);
+        if(isNum == false) // Checks if the user put in a number
+        {
+            Console.WriteLine("That was not a number try again");
+        }else
+        {
+            int number = Convert.ToInt32(num);
+            return number;
+        }
+    }
+}
+
